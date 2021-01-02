@@ -18,7 +18,9 @@
 #### Which county had the largest number of votes?
 #### Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 #### Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
-## Election-Audit Summary:
-### Business proposal 
-#### The election commission script can be used with some modifications for any election. 
-#### Lets look at two examples of how this script can be modified to be used for other elections.
+# Election-Audit Summary
+## Business proposal
+### The election commission script can be used with some modifications for any election.
+####
+### Lets look at two examples of how this script can be modified to be used for other elections.
+####
