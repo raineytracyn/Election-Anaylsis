@@ -1,7 +1,9 @@
 # Overview of Election Audit: Explain the purpose of this election audit analysis.
 # Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
-### Without diving too deep, you can see our winner is Ms. Diana DeGette 73.8%
+### Without diving too deep, you can see below our winner is Ms. Diana DeGette, taking the electionb by storm with 73.8% of ballots casted selecting her.
 ###### ![Election_Results](https://github.com/raineytracyn/Election-Anaylsis/blob/main/Resources/Election%20Results.png)
+### Lets take a deeper look into what happened:
+###### ![Details_of_the_election_results](https://github.com/raineytracyn/Election-Anaylsis/blob/main/Resources/Details%20of%20the%20election%20results.png)
 ### Denver
 #### How many votes were cast in this congressional election?
 #### Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
