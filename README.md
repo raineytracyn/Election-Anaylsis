@@ -22,7 +22,9 @@
 ## Business proposal
 #### Looking below, you can see the code currently provides basic results. The election commission script can be used with some modifications for any election. Maybe along with results below, you would like to understand the political concerns by county. Some may be very concerns about impacts on defense companies, while others are concerned with impacts on small-business owner-ship. Tying concerns with results of what county voted for who will help preparation for the next election, and help better understand the needs by county.
 ###### ![Code_Results](https://github.com/raineytracyn/Election-Anaylsis/blob/main/Resources/Code_Results.png)
-
-####
-### Lets look at two examples of how this script can be modified to be used for other elections.
+#### Lets look at two examples of how this script can be modified to be used for other elections.
+1. Adding a column to capture what the leading industry is in the county.
+   * In the CSV file, add a column which captures the industry the voter is working in. Add a section of code that consolidates the top two industries for each county. Look at the results of the information and compare it to the winning and loosing candidate's focuses while on tour.
+2. Adding a column to capture if the voter voted during the last cycle.
+   * In the CSV file, add a column which captures if the voter participated in the last cycle by county. Consolidate the tour count and length, and compare it to the turn out. Did tour counts and lengths have an impact on the turnout in a positive way? Did it in some areas, but not others? This will help adjust dollars spent on tours to ensure the dollar has a greater impact in the future.
 ####
