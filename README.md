@@ -1,4 +1,9 @@
-# Overview of Election Audit: Explain the purpose of this election audit analysis.
+# Overview of Election Audit: 
+  ### Purpose of this election audit analysis is to determine:
+  * The voter turnout for each county
+  * The percentage of votes from each county out of the total count
+  * The county with the highest turnout
+  ### Additional information which can be obtained includes the winner of the election, evaluate which candidates were strongest where, as well as why and by how much.
 # Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
 ### Without diving too deep, you can see below our winner is Ms. Diana DeGette, taking the electionb by storm with 73.8% of ballots casted selecting her.
 ###### ![Election_Results](https://github.com/raineytracyn/Election-Anaylsis/blob/main/Resources/Election%20Results.png)
@@ -14,7 +19,9 @@
 
 # Election-Audit Summary
 ## Business proposal
-### The election commission script can be used with some modifications for any election.
+### Looking below, you can see the code currently provides basic results. The election commission script can be used with some modifications for any election. Maybe along with results below, you would like to understand the political concerns by county. Some may be very concerns about impacts on defense companies, while others are concerned with impacts on small-business owner-ship. Tying concerns with results of what county voted for who will help preparation for the next election, and help better understand the needs by county.
+###### ![Code_Results](https://github.com/raineytracyn/Election-Anaylsis/blob/main/Resources/Code_Results.png)
+
 ####
 ### Lets look at two examples of how this script can be modified to be used for other elections.
 ####
