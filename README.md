@@ -1,10 +1,10 @@
 # Overview of Election Audit: 
-  ### Purpose of this election audit analysis is to determine:
+### Purpose of this election audit analysis is to determine:
   * The voter turnout for each county
   * The percentage of votes from each county out of the total count
   * The county with the highest turnout
-  ### Additional information which can be obtained includes the winner of the election, evaluate which candidates were strongest where, as well as why and by how much.
-# Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
+### Additional information which can be obtained includes the winner of the election, evaluate which candidates were strongest where, as well as why and by how much.
+# Election-Audit Results:
 ### Without diving too deep, you can see below our winner is Ms. Diana DeGette, taking the electionb by storm with 73.8% of ballots casted selecting her.
 ###### ![Election_Results](https://github.com/raineytracyn/Election-Anaylsis/blob/main/Resources/Election%20Results.png)
 ### Lets take a deeper look into what happened:
